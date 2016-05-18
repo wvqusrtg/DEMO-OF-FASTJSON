@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hello-world:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hello_world_jar</output-path>
+    <root id="archive" name="hello-world.jar">
+      <element id="module-output" name="hello-world" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/fastjson-1.1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../autospread/BJ_Target/BJ_RD/工程代码/autospread_interface/WebRoot/WEB-INF/lib/log4j-1.2.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
