@@ -1,0 +1,38 @@
+{
+  "req": {
+    "MacAddress": "70:72:0d:46:b0:70",
+    "add": [
+      {
+        "gname": "1322300198@chatroom",
+        "gnickname": "auto群组",
+        "members": "wxid_omrqxr4ggxcl22;wxid_ifw2px0p81f722;wxid_xda5fn9wr3dr22;wxid_20mvq63hc89122",
+        "updatetime": "2016-04-25 11:24:37"
+      },
+      {
+        "gname": "2291590645@chatroom",
+        "gnickname": "luck99",
+        "members": "wxid_omrqxr4ggxcl22;gaok1985;wxid_pg90nqd3b86w22;wxid_20mvq63hc89122",
+        "updatetime": "2016-04-25 11:24:37"
+      },
+      {
+        "gname": "1119478959@chatroom",
+        "gnickname": "luck66",
+        "members": "wxid_omrqxr4ggxcl22;wxid_pg90nqd3b86w22;wxid_20mvq63hc89122;gaok1985;wxid_jbd8cp95xupt51",
+        "updatetime": "2016-04-25 11:24:37"
+      },
+      {
+        "gname": "2273765822@chatroom",
+        "gnickname": "aaa",
+        "members": "wxidd_7ks2sckittxu22;wxid_84smgu94iklf22;wxid_s48ualcnvsz622;wxid_ifw2px0p81f722;wxid_xda5fn9wr3dr22;wxid_au2fp1vfs6aa22;wxid_20mvq63hc89122;wxid_7fvpl2z2hw6c21;wxid_rnzircnoinf021",
+        "updatetime": "2016-04-25 11:24:32"
+      },
+      {
+        "gname": "1549307073@chatroom",
+        "gnickname": "family",
+        "members": "wxid_omrqxr4ggxcl22;wxid_ifw2px0p81f722;wxid_20mvq63hc89122;wxid_pg90nqd3b86w22;wxid_84smgu94iklf22;wxid_wcm7e4xaw0eu21;billn1;wxid_xda5fn9wr3dr22;xinliyouzuofen0281;wxid_kfbtw0fufdkd21;wxid_au2fp1vfs6aa22;wxid_jbd8cp95xupt51;wxid_7ks2sckittxu22;wxid_ubc8ey5rmblc11;wxid_psts0qs7m8cp22",
+        "updatetime": "2016-05-17 11:17:25"
+      }
+    ],
+    "spreadwxname": "wxid_20mvq63hc89122"
+  }
+}
